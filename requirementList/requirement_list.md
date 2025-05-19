@@ -1,3 +1,6 @@
+## github repository url: https://github.com/ghdtjgus76/sw-engineering-hw2
+## 개인 코드: 87120
+
 | No. | Requirement | Use Case(s) |
 | --- | --- | --- |
 | 1 | 비회원은 회원의 필수 입력 정보인 ID, 비밀번호, 전화번호를 입력하여 회원 가입한다. | 회원 가입  |
